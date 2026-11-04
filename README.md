@@ -19,4 +19,4 @@ Research - có tài liệu j trong này hết mn tự add
 
 Web - cần thì e làm cả backend frontend  
 
-Logs = Logs của web, Output = đầu ra chương trình  
+Output = đầu ra chương trình  
