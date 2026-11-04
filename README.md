@@ -8,7 +8,7 @@ Main - code chính
      - Poetrygen: promp training    
      - Base : code tổng hợp  
 
-Promts - mẫu thơ  
+Promts - các cách tạo ra thơ  
        - zero_shot — Không ví dụ, không giải thích  
        - one_shot — Cho 1 ví dụ mẫu  
        - completion — Cho nửa bài, yêu cầu viết tiếp  
